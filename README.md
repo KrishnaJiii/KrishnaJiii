@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Krishna Bedi 👋
 
-<!--
-**KrishnaJiii/KrishnaJiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software student | Aspiring Data Scientist**  
+Based in India · S.D. Degree College, Muzaffarnagar
 
-Here are some ideas to get you started:
+## 🔭 About Me
+I'm a BCA software student learning data science and machine learning. I enjoy building data-driven solutions and am currently upskilling with **PW's Data Science with Generative AI**. I’ve completed Deloitte & Tata GenAI data analytics simulations and I'm actively working on ML assignments (Decision Trees, Ensemble methods).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages & Tools:** Python, Google Collab, jupyter notebook, Git, GitHub  
+- **Data & ML:** Pandas, NumPy, scikit-learn, matplotlib, seaborn, tensorflow, pytorch  
+- **Concepts:** Data Analysis, Machine Learning, EDA, Deep Learning, NLP, Gen AI
+
+## 🚧 Projects (work-in-progress)
+- **Mintra Project** — (short → medium → advanced) *[add link]*  
+- **Customer Categorization / Segmentation** — (data cleaning → clustering → dashboard) *[add link]*
+
+> I’m building more projects — open to collaboration and mentorship.
+
+## 📚 Education & Certifications
+- BCA — S.D. Degree College, Muzaffarnagar  
+- PW: Data Science with Generative AI (enrolled)  
+- Completed: Deloitte Data Analytics Job Simulation, Tata GenAI Data Analytics Simulation
+
+## 🤝 Let's Collaborate
+I’m looking for small projects or internships to build real-world experience.  
+Email: `kb1106140@gmail.com`  
+LinkedIn: `https://www.linkedin.com/in/krishna-bediofficial/`  
+
+## ⚡ Fun
+I like turning messy data into clear stories and building simple models that solve real problems.
