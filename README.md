@@ -12,8 +12,10 @@ I'm a BCA software student learning data science and machine learning. I enjoy b
 - **Concepts:** Data Analysis, Machine Learning, EDA, Deep Learning, NLP, Gen AI
 
 ## 🚧 Projects (work-in-progress)
-- **Mintra Project** — (short → medium → advanced)   
-- **Customer Categorization / Segmentation** — (data cleaning → clustering → dashboard) 
+- **Mintra Project** — The Mintra Project focuses on analyzing and managing structured data using Python and database concepts. It involves data collection, cleaning, and basic analysis to extract useful insights for decision-making.
+Example: Identifying trends or patterns in user or product data to improve system efficiency. 
+- **Customer Categorization / Segmentation** — This project aims to group customers based on similar characteristics using data analysis and machine learning techniques. It helps businesses understand customer behavior and target the right audience effectively.
+Example: Segmenting customers based on purchase behavior to design personalized marketing strategies.
 
 > I’m building more projects — open to collaboration and mentorship.
 
