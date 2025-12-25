@@ -12,8 +12,8 @@ I'm a BCA software student learning data science and machine learning. I enjoy b
 - **Concepts:** Data Analysis, Machine Learning, EDA, Deep Learning, NLP, Gen AI
 
 ## 🚧 Projects (work-in-progress)
-- **Mintra Project** — (short → medium → advanced) *[add link]*  
-- **Customer Categorization / Segmentation** — (data cleaning → clustering → dashboard) *[add link]*
+- **Mintra Project** — (short → medium → advanced)   
+- **Customer Categorization / Segmentation** — (data cleaning → clustering → dashboard) 
 
 > I’m building more projects — open to collaboration and mentorship.
 
