@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Bedi</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | ML & Generative AI Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | ML & Generative AI Enthusiast</h3>
 
 
 
